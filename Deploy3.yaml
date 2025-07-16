@@ -1,7 +1,7 @@
 apiVersion: appv1
 kind: Deployment
 matadata: 
-	name: myapp_v4
+	name: myapp_v5
 spec:
     replicas: 4
 	selector:
